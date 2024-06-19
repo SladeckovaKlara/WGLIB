@@ -1,0 +1,15 @@
+/home/klara/Documents/DIPLOMOVKA/wglib/target/debug/deps/bstr-1e007ac982950bad.rmeta: /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/lib.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ascii.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstr.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstring.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/mod.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/scalar.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_slice.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_vec.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/impls.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/io.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/utf8.rs
+
+/home/klara/Documents/DIPLOMOVKA/wglib/target/debug/deps/bstr-1e007ac982950bad.d: /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/lib.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ascii.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstr.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstring.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/mod.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/scalar.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_slice.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_vec.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/impls.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/io.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/utf8.rs
+
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/lib.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ascii.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstr.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstring.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/mod.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/scalar.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_slice.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_vec.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/impls.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/io.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/utf8.rs:

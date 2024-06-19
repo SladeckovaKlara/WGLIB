@@ -1,0 +1,15 @@
+/home/klara/Documents/DIPLOMOVKA/wglib2/target/debug/deps/anyhow-57ebb4eea213fd22.rmeta: /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/lib.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/backtrace.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/chain.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/context.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/ensure.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/error.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/fmt.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/kind.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/macros.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/ptr.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/wrapper.rs
+
+/home/klara/Documents/DIPLOMOVKA/wglib2/target/debug/deps/anyhow-57ebb4eea213fd22.d: /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/lib.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/backtrace.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/chain.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/context.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/ensure.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/error.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/fmt.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/kind.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/macros.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/ptr.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/wrapper.rs
+
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/lib.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/backtrace.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/chain.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/context.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/ensure.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/error.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/fmt.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/kind.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/macros.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/ptr.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.75/src/wrapper.rs:

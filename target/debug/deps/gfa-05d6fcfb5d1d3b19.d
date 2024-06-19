@@ -1,0 +1,16 @@
+/home/klara/Documents/DIPLOMOVKA/wglib2/target/debug/deps/gfa-05d6fcfb5d1d3b19.rmeta: /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/lib.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/cigar.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/gafpaf.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/gfa.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/gfa/name_conversion.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/gfa/orientation.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/gfa/traits.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/mmap.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/optfields.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/parser.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/parser/error.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/writer.rs
+
+/home/klara/Documents/DIPLOMOVKA/wglib2/target/debug/deps/gfa-05d6fcfb5d1d3b19.d: /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/lib.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/cigar.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/gafpaf.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/gfa.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/gfa/name_conversion.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/gfa/orientation.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/gfa/traits.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/mmap.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/optfields.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/parser.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/parser/error.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/writer.rs
+
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/lib.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/cigar.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/gafpaf.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/gfa.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/gfa/name_conversion.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/gfa/orientation.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/gfa/traits.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/mmap.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/optfields.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/parser.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/parser/error.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/gfa-0.10.1/src/writer.rs:

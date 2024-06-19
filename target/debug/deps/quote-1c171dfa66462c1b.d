@@ -1,0 +1,13 @@
+/home/klara/Documents/DIPLOMOVKA/wglib2/target/debug/deps/quote-1c171dfa66462c1b.rmeta: /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/lib.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ext.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/format.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ident_fragment.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/to_tokens.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/runtime.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/spanned.rs
+
+/home/klara/Documents/DIPLOMOVKA/wglib2/target/debug/deps/libquote-1c171dfa66462c1b.rlib: /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/lib.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ext.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/format.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ident_fragment.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/to_tokens.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/runtime.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/spanned.rs
+
+/home/klara/Documents/DIPLOMOVKA/wglib2/target/debug/deps/quote-1c171dfa66462c1b.d: /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/lib.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ext.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/format.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ident_fragment.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/to_tokens.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/runtime.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/spanned.rs
+
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/lib.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ext.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/format.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/ident_fragment.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/to_tokens.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/runtime.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.33/src/spanned.rs:

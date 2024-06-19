@@ -1,0 +1,15 @@
+/home/klara/Documents/DIPLOMOVKA/wglib/target/debug/deps/regex-621a07fc79dd95cc.rmeta: /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/lib.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/builders.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/bytes.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/error.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/find_byte.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regex/mod.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regex/bytes.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regex/string.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regexset/mod.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regexset/bytes.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regexset/string.rs
+
+/home/klara/Documents/DIPLOMOVKA/wglib/target/debug/deps/regex-621a07fc79dd95cc.d: /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/lib.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/builders.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/bytes.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/error.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/find_byte.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regex/mod.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regex/bytes.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regex/string.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regexset/mod.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regexset/bytes.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regexset/string.rs
+
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/lib.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/builders.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/bytes.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/error.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/find_byte.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regex/mod.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regex/bytes.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regex/string.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regexset/mod.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regexset/bytes.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-1.9.6/src/regexset/string.rs:

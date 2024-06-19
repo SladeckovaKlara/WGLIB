@@ -1,0 +1,12 @@
+/home/klara/Documents/DIPLOMOVKA/wglib2/target/debug/deps/libthiserror_impl-c524b7e122a0263f.so: /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/lib.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/ast.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/attr.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/expand.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/fmt.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/generics.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/prop.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/valid.rs
+
+/home/klara/Documents/DIPLOMOVKA/wglib2/target/debug/deps/thiserror_impl-c524b7e122a0263f.d: /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/lib.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/ast.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/attr.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/expand.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/fmt.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/generics.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/prop.rs /home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/valid.rs
+
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/lib.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/ast.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/attr.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/expand.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/fmt.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/generics.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/prop.rs:
+/home/klara/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.49/src/valid.rs:
